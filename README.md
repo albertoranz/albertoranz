@@ -20,8 +20,9 @@ I am musician, music technology specialist, and aspiring data analyst.
 
 
 
-💻 ### Technologies
+### 💻 Technologies
 
 
-📫 ### How to reach me
+### 📫 How to reach me
+
 [LinkedIn](https://www.linkedin.com/in/alberto-ranz/)
