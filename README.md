@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 --- 
 
-## About Me
-I am musician, music technology specialist, and aspiring data analyst. I'm currently interested in AI and ML related to audio and music. Open for projects and collaborations in this field.
+## 💬 About Me
+Musician, music technology specialist, and aspiring data analyst. I'm currently interested in AI and ML related to audio and music. Open for projects and collaborations in this field.
 
 Motivated learner and certainly skilled in technology in general. Repairing and building things up both with my hands and with my mind is something I really enjoy. Music stimulates my creativity. The people who know me usually consider me an analytical thinker and observer.
 
