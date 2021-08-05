@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Welcome to my Github 👋
 
+--- 
+
 ## About Me
 I am musician, music technology specialist, and aspiring data analyst. I'm currently interested in AI and ML related to audio and music. Open for projects and collaborations in this field.
 
@@ -26,6 +28,7 @@ I also produce music and provide musical services as a freelance musician and so
 
 As a teacher, I trained many people in music and guitar for more than 15 years, working with groups and individuals within all ages. This experience showed me how to work with group dynamics, adapting the level of the class to the needs of the team, and maintaining the attention from each and every student.
 
+---
 
 ## 💻 Technologies
 ![image](https://user-images.githubusercontent.com/84200692/128323385-712bd0d4-9537-4e74-8579-9ee65d861435.png)
@@ -38,6 +41,7 @@ As a teacher, I trained many people in music and guitar for more than 15 years, 
 ![image](https://user-images.githubusercontent.com/84200692/128324701-ca681a9f-bf69-41d4-99d8-613387a8af26.png)
 ![image](https://user-images.githubusercontent.com/84200692/128323222-f1cb870d-557e-4a49-b6fd-7afac69caacb.png)
 
+---
 
 ## 📫 How to reach me
 
