@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# :star2: Welcome to my Github
+# Welcome to my Github
+
+I am musician, music technology specialist, and aspiring data analyst. 
 
 
 
 💻 TOOLS & TECHNOLOGIES
+&icon-html5;
