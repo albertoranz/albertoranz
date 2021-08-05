@@ -26,6 +26,8 @@ I gathered some professional experience in post-production (synchronization) as 
 
 I also produce music and provide musical services as a freelance musician and sound engineer. I worked with different DAWs (ProTools, Cubase, Logic), consoles (SSL, Toft), and audio software such as Izotope (RX 7, Ozone), UA, Waves, and many more. You can check some of my music in my [Bandcamp.](https://albertoranz.bandcamp.com/) :notes:
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=765719976/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://albertoranz.bandcamp.com/track/why-wont-you">Why won&#39;t you by Alberto Ranz</a></iframe>
+
 As a teacher, I trained many people in music and guitar for more than 15 years, working with groups and individuals within all ages. This experience showed me how to work with group dynamics, adapting the level of the class to the needs of the team, and maintaining the attention from each and every student.
 
 
@@ -35,7 +37,6 @@ As a teacher, I trained many people in music and guitar for more than 15 years, 
 ![image](https://user-images.githubusercontent.com/84200692/128313525-f6fe9789-0047-41e9-8f82-4bc1a9610553.png)
 ![image](https://user-images.githubusercontent.com/84200692/128313543-ca495286-8295-4eb0-8c5a-1bea44613f96.png)
 ![image](https://user-images.githubusercontent.com/84200692/128314246-8d0ed8a8-f04b-4ed9-95a4-4e4fcf8aedeb.png)
-![Uploading image.png…]()
 
 
 
