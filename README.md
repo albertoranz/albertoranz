@@ -30,7 +30,7 @@ As a teacher, I trained many people in music and guitar for more than 15 years, 
 
 ### 💻 Technologies
 ![image](https://user-images.githubusercontent.com/84200692/128308433-a1e17d4c-3885-454a-af86-559d7389747b.png)
-<img src="https://user-images.githubusercontent.com/84200692/128308433-a1e17d4c-3885-454a-af86-559d7389747b.png">
+<img src="https://user-images.githubusercontent.com/84200692/128308433-a1e17d4c-3885-454a-af86-559d7389747b.png" rel="nofollow">
 ![name](https://user-images.githubusercontent.com/84200692/128308433-a1e17d4c-3885-454a-af86-559d7389747b.png)]
 ### 📫 How to reach me
 
