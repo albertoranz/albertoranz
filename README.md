@@ -26,7 +26,6 @@ I gathered some professional experience in post-production (synchronization) as 
 
 I also produce music and provide musical services as a freelance musician and sound engineer. I worked with different DAWs (ProTools, Cubase, Logic), consoles (SSL, Toft), and audio software such as Izotope (RX 7, Ozone), UA, Waves, and many more. You can check some of my works in my [Bandcamp](https://albertoranz.bandcamp.com/) and [SoundCloud](https://soundcloud.com/user-224022558). :notes:
 
-As a teacher, I trained many people in music and guitar for more than 15 years, working with groups and individuals within all ages. This experience showed me how to work with group dynamics, adapting the level of the class to the needs of the team, and maintaining the attention from each and every student.
 
 ---
 
