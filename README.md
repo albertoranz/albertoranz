@@ -26,7 +26,6 @@ I gathered some professional experience in post-production (synchronization) as 
 
 I also produce music and provide musical services as a freelance musician and sound engineer. I worked with different DAWs (ProTools, Cubase, Logic), consoles (SSL, Toft), and audio software such as Izotope (RX 7, Ozone), UA, Waves, and many more. You can check some of my works in my [Bandcamp](https://albertoranz.bandcamp.com/) and [SoundCloud](https://soundcloud.com/user-224022558). :notes:
 
-You can check out my projects in [Tableau](https://public.tableau.com/app/profile/albertoranz).
 
 ---
 
